@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {storeProducts, detailProduct} from './data';
-import { faBoxTissue } from '@fortawesome/free-solid-svg-icons';
 
 const ProductContext = React.createContext();
 
